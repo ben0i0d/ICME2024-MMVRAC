@@ -1,0 +1,3 @@
+# ninja log v5
+0	11705	1711541643946000400	/media/chuankun/CTR-GCN-main/model/Temporal_shift/cuda/build/temp.linux-x86_64-3.6/shift_cuda_kernel.o	b8d3851b56a15698
+0	17458	1711541649697264500	/media/chuankun/CTR-GCN-main/model/Temporal_shift/cuda/build/temp.linux-x86_64-3.6/shift_cuda.o	688841b4f643f789
